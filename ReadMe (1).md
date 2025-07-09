@@ -1,5 +1,9 @@
 # 💫 About Me:
-Sou estudante de Análise e Desenvolvimento de Sistemas, Cursando 4º Período. com uma boa  base em HTML, CSS e JavaScript, Banco De Dados. Gosto de desenvolver interfaces web intuitivas e responsivas, focando na experiência do usuário e na eficiência do código. <br>
+🎓 Recém-formado em Análise e Desenvolvimento de Sistemas
+💡 Entusiasta de tecnologia, sempre aprendendo e testando coisas novas
+📚 Já fiz cursos de desenvolvimento web, Git/GitHub e banco de dados
+💻 Buscando contribuir com projetos open source e crescer como desenvolvedor
+🚀 Aberto a colaborações e novos desafios!
 
 
 ## 🌐 Socials:
